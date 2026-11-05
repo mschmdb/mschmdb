@@ -1,8 +1,6 @@
 # Matze Schmidbauer
 
-**Owned, not vibed.**
-
-I don't consider myself a developer. Agents write my code. I decide what they build and why, set their rules and approve what ships. The code is theirs. The result is mine.
+I don't consider myself a developer. Agents write my code. I decide what they build and why, set their rules and approve what ships. I answer for the result.
 
 Head of Platform & AI at [mtc.berlin](https://mtc.berlin), Berlin.
 
